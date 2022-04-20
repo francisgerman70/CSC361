@@ -1,11 +1,11 @@
 # CSC361
-Course Objectives And Learning Outcomes
+# Course Objectives And Learning Outcomes
 To understand the principles and practice of designing, building, and operating computer networks, particularly the Internet, and the TCP/IP protocol stack, with hands-on programming labs.
 To help students gain a general understanding of the principles and concepts governing the operations of computer networks;
 To provide the students with the opportunity to become skillful in the implementation and use of communication protocols.
 Textbooks
 
-Topics
+# Topics
 Introduction
 Internet overview;
 Access network technologies: basics;
